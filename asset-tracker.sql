@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.7.36, for Linux (x86_64)
 --
--- Host: pms.ctuqhqzbzpnq.ap-south-1.rds.amazonaws.com    Database: asset-tracker
+-- Host: pms.ctuqhqzbzpnq.ap-south-1.rds.amazonaws.com    Database: snipeit_db
 -- ------------------------------------------------------
 -- Server version	8.0.23
 
